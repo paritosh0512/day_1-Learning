@@ -1,0 +1,22 @@
+# fumction program
+
+
+
+def name():
+    s="Paritosh_Singh"
+    print(s)
+
+    
+name()
+
+output
+Paritosh_Singh
+
+# Add two number
+
+num1=67
+num2=98
+print(num1+num2)
+
+output
+165
